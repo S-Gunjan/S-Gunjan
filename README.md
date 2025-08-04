@@ -1,4 +1,4 @@
-![logo](GunjanBanner.gif)
+![logo](Gunjan_Banner.gif)
 <h1 align="center">Hi there, I'm Gunjan! 👋</h1>
 
 I'm an IT Engineer with a passion for data-driven decision-making. I earned my Master's in Business Analytics from Boston University, blending technology and business insights to solve complex problems effectively. 
